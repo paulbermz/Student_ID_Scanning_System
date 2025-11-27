@@ -143,7 +143,7 @@ namespace Student_ID_Scanning_System
         // Fetch students data from database
         private void FetchStudentInfo(string studentID)
         {
-            string connStr = "server=localhost;user=root;password=paulbernal2004;database=student_records";
+            string connStr = "server=localhost;user=root;password=;database=student_records";
 
             using (MySqlConnection conn = new MySqlConnection(connStr))
             {
