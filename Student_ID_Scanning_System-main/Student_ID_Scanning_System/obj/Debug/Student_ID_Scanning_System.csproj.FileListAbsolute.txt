@@ -1,0 +1,128 @@
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.exe.config
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.exe
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.pdb
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\MySqlConnector.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Buffers.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Memory.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\MySqlConnector.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Buffers.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Memory.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.AssemblyReference.cache
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Login.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Properties.Resources.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.GenerateResource.cache
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.CoreCompileInputs.cache
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_.F7431A78.Up2Date
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.exe
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.pdb
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.exe.config
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.MainDashboard.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Scan_Screen.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Barcode.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.QR_Code.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.RFID.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Student_Record.resources
+C:\Users\israel\Source\Repos\Student_ID_Scanning_System\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Reports.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.AssemblyReference.cache
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.exe.config
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.exe
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.pdb
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.exe.config
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.exe
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.pdb
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\MySqlConnector.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Buffers.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Memory.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\MySqlConnector.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Buffers.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Memory.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Barcode.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Login.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.MainDashboard.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Properties.Resources.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.QR_Code.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Reports.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.RFID.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Scan_Screen.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Student_Record.resources
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.GenerateResource.cache
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.CoreCompileInputs.cache
+C:\Users\paulb\Downloads\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_.F7431A78.Up2Date
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.exe.config
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.exe
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Student_ID_Scanning_System.pdb
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\AForge.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\AForge.Video.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\MySqlConnector.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Buffers.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Memory.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\zxing.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\zxing.presentation.dll
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\AForge.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\AForge.Video.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\MySqlConnector.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Buffers.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Memory.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Numerics.Vectors.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\zxing.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\bin\Debug\zxing.presentation.xml
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.AssemblyReference.cache
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.exe.config
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Barcode.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Login.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.MainDashboard.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Properties.Resources.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.QR_Code.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Reports.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.RFID.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Scan_Screen.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.StudentInfoForm.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.Student_Record.resources
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.GenerateResource.cache
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_.F7431A78.Up2Date
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.exe
+C:\Visual Studio Projects C#\Student_ID_Scanning_System-main\Student_ID_Scanning_System-main\Student_ID_Scanning_System\obj\Debug\Student_ID_Scanning_System.pdb
