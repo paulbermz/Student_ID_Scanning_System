@@ -3,7 +3,7 @@ DROP DATABASE IF EXISTS student_records;
 CREATE DATABASE student_records;
 USE student_records;
 
--- Create students table with barcode_id column
+-- Create students table 
 CREATE TABLE students (
     student_id VARCHAR(20) PRIMARY KEY,
     barcode_id VARCHAR(50) UNIQUE,  
@@ -18,7 +18,7 @@ CREATE TABLE students (
     photo_path VARCHAR(255)
 );
 
--- Insert student records with barcode_id
+-- Insert student records in students table
 INSERT INTO students (student_id, barcode_id, full_name, program, year_level, section, status, email, phone_number, address, photo_path)
 VALUES ('2300001', '18110390', 'Udtohan, Francis Matsubuto', 'Bachelor of Science in Information Technology', '3rd Year', '3IT-D', 'Enrolled', 'baiNaBaiFrancis@gmail.com', '091237459325', 'Blk 32 Lot 32 Phase 5 Southville 1 Brgy. Marinig Cabuyao City Laguna', 'bai.png'),
        ('2300002', '18110391', 'Polgoso, Rigor', 'Bachelor of Science in Information Technology', '3rd Year', '3IT-D', 'Enrolled', 'rigor.polgoso@gmail.com', '091234567890', 'Blk 10 Lot 5 Phase 3 Brgy. Banay-Banay Cabuyao City Laguna', 'polgoso.png'),
