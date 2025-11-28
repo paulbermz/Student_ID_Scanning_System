@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.button5 = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
             this.lblIDManual = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
             this.panel9 = new System.Windows.Forms.Panel();
@@ -38,14 +38,12 @@
             this.panel12 = new System.Windows.Forms.Panel();
             this.panel10 = new System.Windows.Forms.Panel();
             this.txtIDManual = new System.Windows.Forms.TextBox();
-            this.btnScan = new System.Windows.Forms.Button();
             this.btnCamera = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxCamera = new System.Windows.Forms.PictureBox();
+            this.btnClose = new System.Windows.Forms.Button();
             this.panel8.SuspendLayout();
-            this.panel6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCamera)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -53,56 +51,62 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(81)))), ((int)(((byte)(59)))));
-            this.label1.Location = new System.Drawing.Point(466, 574);
+            this.label1.Location = new System.Drawing.Point(254, 496);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(157, 28);
+            this.label1.Size = new System.Drawing.Size(126, 21);
             this.label1.TabIndex = 78;
             this.label1.Text = "MANUAL ENTRY";
             // 
-            // button5
+            // btnAdd
             // 
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button5.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
-            this.button5.FlatAppearance.BorderSize = 0;
-            this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
-            this.button5.Location = new System.Drawing.Point(975, 623);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(161, 61);
-            this.button5.TabIndex = 77;
-            this.button5.TabStop = false;
-            this.button5.Text = "ADD";
-            this.button5.UseVisualStyleBackColor = false;
+            this.btnAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
+            this.btnAdd.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnAdd.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
+            this.btnAdd.FlatAppearance.BorderSize = 0;
+            this.btnAdd.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
+            this.btnAdd.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
+            this.btnAdd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAdd.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAdd.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
+            this.btnAdd.Location = new System.Drawing.Point(661, 535);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(2);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(129, 49);
+            this.btnAdd.TabIndex = 77;
+            this.btnAdd.TabStop = false;
+            this.btnAdd.Text = "ADD";
+            this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // lblIDManual
             // 
             this.lblIDManual.AutoSize = true;
             this.lblIDManual.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblIDManual.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.lblIDManual.Location = new System.Drawing.Point(472, 638);
+            this.lblIDManual.Location = new System.Drawing.Point(259, 547);
+            this.lblIDManual.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblIDManual.Name = "lblIDManual";
-            this.lblIDManual.Size = new System.Drawing.Size(152, 28);
+            this.lblIDManual.Size = new System.Drawing.Size(121, 21);
             this.lblIDManual.TabIndex = 76;
             this.lblIDManual.Text = "Manual ID Input";
             // 
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.panel7.Location = new System.Drawing.Point(945, 624);
+            this.panel7.Location = new System.Drawing.Point(637, 536);
+            this.panel7.Margin = new System.Windows.Forms.Padding(2);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(1, 60);
+            this.panel7.Size = new System.Drawing.Size(1, 48);
             this.panel7.TabIndex = 75;
             // 
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.panel9.Location = new System.Drawing.Point(464, 623);
+            this.panel9.Location = new System.Drawing.Point(252, 535);
+            this.panel9.Margin = new System.Windows.Forms.Padding(2);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(481, 1);
+            this.panel9.Size = new System.Drawing.Size(385, 1);
             this.panel9.TabIndex = 73;
             // 
             // panel8
@@ -110,33 +114,37 @@
             this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
             this.panel8.Controls.Add(this.panel11);
             this.panel8.Controls.Add(this.panel12);
-            this.panel8.Location = new System.Drawing.Point(464, 623);
+            this.panel8.Location = new System.Drawing.Point(252, 535);
+            this.panel8.Margin = new System.Windows.Forms.Padding(2);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(1, 60);
+            this.panel8.Size = new System.Drawing.Size(1, 48);
             this.panel8.TabIndex = 74;
             // 
             // panel11
             // 
             this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
             this.panel11.Location = new System.Drawing.Point(0, 0);
+            this.panel11.Margin = new System.Windows.Forms.Padding(2);
             this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(435, 1);
+            this.panel11.Size = new System.Drawing.Size(348, 1);
             this.panel11.TabIndex = 61;
             // 
             // panel12
             // 
             this.panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.panel12.Location = new System.Drawing.Point(434, 3);
+            this.panel12.Location = new System.Drawing.Point(347, 2);
+            this.panel12.Margin = new System.Windows.Forms.Padding(2);
             this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(1, 60);
+            this.panel12.Size = new System.Drawing.Size(1, 48);
             this.panel12.TabIndex = 63;
             // 
             // panel10
             // 
             this.panel10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.panel10.Location = new System.Drawing.Point(464, 683);
+            this.panel10.Location = new System.Drawing.Point(252, 583);
+            this.panel10.Margin = new System.Windows.Forms.Padding(2);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(482, 1);
+            this.panel10.Size = new System.Drawing.Size(386, 1);
             this.panel10.TabIndex = 72;
             // 
             // txtIDManual
@@ -145,31 +153,13 @@
             this.txtIDManual.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtIDManual.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtIDManual.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(81)))), ((int)(((byte)(59)))));
-            this.txtIDManual.Location = new System.Drawing.Point(477, 638);
+            this.txtIDManual.Location = new System.Drawing.Point(263, 547);
+            this.txtIDManual.Margin = new System.Windows.Forms.Padding(2);
             this.txtIDManual.Name = "txtIDManual";
-            this.txtIDManual.Size = new System.Drawing.Size(462, 31);
+            this.txtIDManual.Size = new System.Drawing.Size(370, 25);
             this.txtIDManual.TabIndex = 71;
             this.txtIDManual.TabStop = false;
             this.txtIDManual.Click += new System.EventHandler(this.txtIDManual_Click);
-            // 
-            // btnScan
-            // 
-            this.btnScan.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.btnScan.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnScan.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
-            this.btnScan.FlatAppearance.BorderSize = 0;
-            this.btnScan.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.btnScan.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.btnScan.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnScan.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnScan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
-            this.btnScan.Location = new System.Drawing.Point(1112, 333);
-            this.btnScan.Name = "btnScan";
-            this.btnScan.Size = new System.Drawing.Size(231, 70);
-            this.btnScan.TabIndex = 70;
-            this.btnScan.TabStop = false;
-            this.btnScan.Text = "SCAN NOW";
-            this.btnScan.UseVisualStyleBackColor = false;
             // 
             // btnCamera
             // 
@@ -181,70 +171,82 @@
             this.btnCamera.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCamera.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCamera.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(153)))), ((int)(((byte)(102)))));
-            this.btnCamera.Location = new System.Drawing.Point(1112, 171);
+            this.btnCamera.Location = new System.Drawing.Point(914, 193);
+            this.btnCamera.Margin = new System.Windows.Forms.Padding(2);
             this.btnCamera.Name = "btnCamera";
-            this.btnCamera.Size = new System.Drawing.Size(231, 70);
+            this.btnCamera.Size = new System.Drawing.Size(185, 56);
             this.btnCamera.TabIndex = 67;
             this.btnCamera.TabStop = false;
             this.btnCamera.Text = "OPEN CAMERA";
             this.btnCamera.UseVisualStyleBackColor = false;
+            this.btnCamera.Click += new System.EventHandler(this.btnCamera_Click);
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(81)))), ((int)(((byte)(59)))));
-            this.label7.Location = new System.Drawing.Point(457, 45);
+            this.label7.Location = new System.Drawing.Point(251, 49);
+            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(188, 28);
+            this.label7.Size = new System.Drawing.Size(151, 21);
             this.label7.TabIndex = 69;
             this.label7.Text = "SCANNER PREVIEW";
             // 
-            // panel6
+            // pictureBoxCamera
             // 
-            this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
-            this.panel6.Controls.Add(this.pictureBox2);
-            this.panel6.Location = new System.Drawing.Point(463, 88);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(483, 456);
-            this.panel6.TabIndex = 68;
+            this.pictureBoxCamera.Location = new System.Drawing.Point(255, 91);
+            this.pictureBoxCamera.Name = "pictureBoxCamera";
+            this.pictureBoxCamera.Size = new System.Drawing.Size(588, 370);
+            this.pictureBoxCamera.TabIndex = 80;
+            this.pictureBoxCamera.TabStop = false;
             // 
-            // pictureBox2
+            // btnClose
             // 
-            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox2.Image = global::Student_ID_Scanning_System.Properties.Resources.Barcode;
-            this.pictureBox2.Location = new System.Drawing.Point(40, 37);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(397, 383);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 0;
-            this.pictureBox2.TabStop = false;
+            this.btnClose.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnClose.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnClose.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
+            this.btnClose.FlatAppearance.BorderSize = 0;
+            this.btnClose.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnClose.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClose.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClose.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
+            this.btnClose.Location = new System.Drawing.Point(914, 289);
+            this.btnClose.Margin = new System.Windows.Forms.Padding(2);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(185, 56);
+            this.btnClose.TabIndex = 81;
+            this.btnClose.TabStop = false;
+            this.btnClose.Text = "CLOSE CAMERA";
+            this.btnClose.UseVisualStyleBackColor = false;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
             // Barcode
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(237)))), ((int)(((byte)(241)))), ((int)(((byte)(214)))));
-            this.ClientSize = new System.Drawing.Size(1924, 1055);
+            this.ClientSize = new System.Drawing.Size(1539, 844);
+            this.Controls.Add(this.btnClose);
+            this.Controls.Add(this.pictureBoxCamera);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button5);
+            this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.lblIDManual);
             this.Controls.Add(this.panel7);
             this.Controls.Add(this.panel9);
             this.Controls.Add(this.panel8);
             this.Controls.Add(this.panel10);
             this.Controls.Add(this.txtIDManual);
-            this.Controls.Add(this.btnScan);
             this.Controls.Add(this.btnCamera);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.panel6);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Barcode";
             this.Text = "Barcode";
             this.Load += new System.EventHandler(this.Barcode_Load);
             this.panel8.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCamera)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -253,7 +255,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Label lblIDManual;
         private System.Windows.Forms.Panel panel7;
         private System.Windows.Forms.Panel panel9;
@@ -262,10 +264,9 @@
         private System.Windows.Forms.Panel panel12;
         private System.Windows.Forms.Panel panel10;
         private System.Windows.Forms.TextBox txtIDManual;
-        private System.Windows.Forms.Button btnScan;
         private System.Windows.Forms.Button btnCamera;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBoxCamera;
+        private System.Windows.Forms.Button btnClose;
     }
 }

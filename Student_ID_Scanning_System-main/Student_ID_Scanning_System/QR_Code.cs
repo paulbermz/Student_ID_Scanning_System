@@ -24,6 +24,7 @@ namespace Student_ID_Scanning_System
             lblIDManual.Dispose();
         }
 
+        // Function to open the camera
         private void btnCamera_Click(object sender, EventArgs e)
         {
             try
@@ -58,6 +59,7 @@ namespace Student_ID_Scanning_System
             }
         }
 
+        // Function to display camera in UI
         private void Video_NewFrame(object sender, NewFrameEventArgs eventArgs)
         {
             try
@@ -75,7 +77,8 @@ namespace Student_ID_Scanning_System
                             pictureBoxCamera.Image.Dispose();
                         }
 
-                        pictureBoxCamera.Image = (Bitmap)bitmap.Clone(); // clone again for UI safety
+                        // clone again for UI safety
+                        pictureBoxCamera.Image = (Bitmap)bitmap.Clone(); 
                     }));
                 }
 
@@ -236,6 +239,11 @@ namespace Student_ID_Scanning_System
         private void btnClose_Click(object sender, EventArgs e)
         {
             CloseCamera();
+        }
+
+        private void QR_Code_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

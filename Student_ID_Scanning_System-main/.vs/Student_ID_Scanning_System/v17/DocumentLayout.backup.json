@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|c:\\visual studio projects c#\\student_id_scanning_system-main\\student_id_scanning_system-main\\student_id_scanning_system\\qr_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|c:\\visual studio projects c#\\student_id_scanning_system-main\\student_id_scanning_system-main\\student_id_scanning_system\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\qr_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\qr_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\qr_code.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\qr_code.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\studentinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\studentinfoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\student_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\student_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\qr_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\qr_code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\barcode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\barcode.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\student_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\student_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\scanscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\scanscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\studentinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\studentinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\studentinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|solutionrelative:student_id_scanning_system\\studentinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B70E7BA-799F-4E97-90CD-C57F4FCD4387}|Student_ID_Scanning_System\\Student_ID_Scanning_System.csproj|C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\student_id_scanning_system\\student_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 677,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,20 +110,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QR_Code.Designer.cs",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.Designer.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\QR_Code.Designer.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.Designer.cs",
-              "RelativeToolTip": "Student_ID_Scanning_System\\QR_Code.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQBAAA2AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Barcode.Designer.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Barcode.Designer.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\Barcode.Designer.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Barcode.Designer.cs",
+              "RelativeToolTip": "Student_ID_Scanning_System\\Barcode.Designer.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAiwKEAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:21:59.026Z",
+              "WhenOpened": "2025-11-27T15:35:34.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Student_Record.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Student_Record.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\Student_Record.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Student_Record.cs [Design]",
+              "RelativeToolTip": "Student_ID_Scanning_System\\Student_Record.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:53:45.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QR_Code.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\QR_Code.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs",
+              "RelativeToolTip": "Student_ID_Scanning_System\\QR_Code.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowG4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:56:08.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QR_Code.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\QR_Code.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs [Design]",
+              "RelativeToolTip": "Student_ID_Scanning_System\\QR_Code.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:55:56.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Barcode.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Barcode.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\Barcode.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Barcode.cs",
+              "RelativeToolTip": "Student_ID_Scanning_System\\Barcode.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAiwAEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:09:22.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barcode.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Barcode.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\Barcode.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Barcode.cs [Design]",
+              "RelativeToolTip": "Student_ID_Scanning_System\\Barcode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:54:42.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ScanScreen.cs",
               "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\ScanScreen.cs",
               "RelativeDocumentMoniker": "Student_ID_Scanning_System\\ScanScreen.cs",
@@ -135,79 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScanScreen.cs [Design]",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\ScanScreen.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\ScanScreen.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\ScanScreen.cs [Design]",
-              "RelativeToolTip": "Student_ID_Scanning_System\\ScanScreen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T11:13:59.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Program.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\Program.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Program.cs",
-              "RelativeToolTip": "Student_ID_Scanning_System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T16:11:36.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentInfoForm.Designer.cs",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\StudentInfoForm.Designer.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\StudentInfoForm.Designer.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\StudentInfoForm.Designer.cs",
-              "RelativeToolTip": "Student_ID_Scanning_System\\StudentInfoForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8CAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T15:10:00.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student_Record.cs [Design]",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Student_Record.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\Student_Record.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Student_Record.cs [Design]",
-              "RelativeToolTip": "Student_ID_Scanning_System\\Student_Record.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T11:53:45.004Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QR_Code.cs",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\QR_Code.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs",
-              "RelativeToolTip": "Student_ID_Scanning_System\\QR_Code.cs",
-              "ViewState": "AgIAAO0AAAAAAAAAAAAkwPAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:56:08.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QR_Code.cs [Design]",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\QR_Code.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\QR_Code.cs [Design]",
-              "RelativeToolTip": "Student_ID_Scanning_System\\QR_Code.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:55:56.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StudentInfoForm.cs",
               "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\StudentInfoForm.cs",
               "RelativeDocumentMoniker": "Student_ID_Scanning_System\\StudentInfoForm.cs",
@@ -219,14 +208,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentInfoForm.cs [Design]",
-              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\StudentInfoForm.cs",
-              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\StudentInfoForm.cs",
-              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\StudentInfoForm.cs [Design]",
-              "RelativeToolTip": "Student_ID_Scanning_System\\StudentInfoForm.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Program.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\Program.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Program.cs",
+              "RelativeToolTip": "Student_ID_Scanning_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T14:07:30.306Z"
+              "WhenOpened": "2025-11-25T16:11:36.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScanScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\ScanScreen.cs",
+              "RelativeDocumentMoniker": "Student_ID_Scanning_System\\ScanScreen.cs",
+              "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\ScanScreen.cs [Design]",
+              "RelativeToolTip": "Student_ID_Scanning_System\\ScanScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:13:59.23Z"
             },
             {
               "$type": "Document",
@@ -238,8 +239,7 @@
               "RelativeToolTip": "Student_ID_Scanning_System\\Student_Record.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAA4wAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:00:05.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:00:05.61Z"
             },
             {
               "$type": "Document",
@@ -251,8 +251,7 @@
               "RelativeToolTip": "Student_ID_Scanning_System\\Student_Record.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:00:17.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:00:17.6Z"
             },
             {
               "$type": "Document",
@@ -331,8 +330,7 @@
               "ToolTip": "C:\\Visual Studio Projects C#\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System-main\\Student_ID_Scanning_System\\Properties\\Resources.resx",
               "RelativeToolTip": "Student_ID_Scanning_System\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-16T00:39:18.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T00:39:18.655Z"
             }
           ]
         },
